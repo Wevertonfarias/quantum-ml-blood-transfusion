@@ -19,15 +19,17 @@ Avaliar e comparar três modelos de Quantum Machine Learning:
 
 ## 📂 Estrutura do Projeto
 
--**`notebook/`** 
-📓 [Notebook da Análise](https://colab.research.google.com/drive/1uPY3Hu8VgE6L0PcISNSZ-N4wU3QKMG7V?usp=sharing)  
-  Contém o notebook do carregamento dos dados, pré-processamento, implementação dos modelos quânticos e comparação dos resultados.
 
 - **`data/`**  
   Pasta contendo o dataset utilizado no estudo (`blood.csv`).
 
 - **`imgs/`**  
   Imagens dos circuitos, gráficos de resultados e visualizações geradas.
+
+
+-**`notebook/`** 
+📓 [Notebook da Análise](https://colab.research.google.com/drive/1uPY3Hu8VgE6L0PcISNSZ-N4wU3QKMG7V?usp=sharing)  
+  Contém o notebook do carregamento dos dados, pré-processamento, implementação dos modelos quânticos e comparação dos resultados.
 
 - **`pdf/`**  
   PDF da apresentação utilizada para explicar metodologia, resultados e conclusão.
@@ -49,19 +51,19 @@ https://www.kaggle.com/datasets/foolishboi/blood-transfusion
 - Baixo custo computacional  
 - Fácil implementação  
 - Acurácia moderada
-- ![Variational Circuit](imgs/circuit_variational.png)
+- ![Variational Circuit](/Imgs/circuit_variational.jpg)
 
 ### 🔹 2. Multiclass Margin Classifier
 - Robusto e com boa precisão  
 - Mais caro computacionalmente  
 - Treinamento mais lento
-- ![Multiclass Classifier](imgs/multiclass_classifier.png)
+- ![Multiclass Classifier](/Imgs/multiclass_classifier.jpg)
 
 ### 🔹 3. Data Reuploading Classifier
 - Melhor capacidade de generalização  
 - Ótimo desempenho geral  
 - Equilíbrio entre custo e precisão
-- ![Data Reuploading](imgs/data_reuploading.png)
+- ![Data Reuploading](/Imgs/data_reuploading.jpg)
 
 ---
 
