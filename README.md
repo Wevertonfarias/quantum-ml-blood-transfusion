@@ -27,7 +27,7 @@ Avaliar e comparar três modelos de Quantum Machine Learning:
   Imagens dos circuitos, gráficos de resultados e visualizações geradas.
 
 
--**`notebook/`** 
+- **`notebook/`** 
 📓 [Notebook da Análise](https://colab.research.google.com/drive/1uPY3Hu8VgE6L0PcISNSZ-N4wU3QKMG7V?usp=sharing)  
   Contém o notebook do carregamento dos dados, pré-processamento, implementação dos modelos quânticos e comparação dos resultados.
 
